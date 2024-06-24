@@ -1,6 +1,29 @@
 # Image Processing Using OpenCV
 
-This repository contains Python scripts for various image processing tasks using OpenCV, including object detection and basic image manipulation.
+This repository contains Python scripts for various image processing **projects** using OpenCV, showcasing my experience during an internship focused on image processing.
+
+## Detailed Contents
+
+- **Basic Image Manipulation and Annotation:**
+  This section includes scripts for fundamental image operations such as resizing, cropping, and adding annotations like rectangles and text to images. These scripts serve as foundational tools for preprocessing and visual enhancement of images.
+
+- **Brightest Spot Detection:**
+  Includes a script to automatically detect the brightest spot in an image. This is useful for applications where identifying the most intense light source or area of interest is critical, such as in microscopy or astronomy.
+
+- **Counting Objects:**
+  Provides scripts for automatically counting objects in an image. This can be applied to various scenarios, including industrial quality control, inventory management, and medical image analysis.
+
+- **Face Detection:**
+  Contains scripts for detecting human faces in images using pre-trained deep learning models. This functionality is crucial for applications in security, surveillance, and facial recognition systems.
+
+- **Object Detection:**
+  Scripts for object detection using pre-trained Caffe models. This section includes tools for detecting and localizing multiple objects within an image, enhancing capabilities in automated image analysis and classification tasks.
+
+- **Realtime Face Detection:**
+  Offers scripts for real-time face detection from live video streams. This feature is essential for applications requiring continuous monitoring and analysis of video feeds, such as in video surveillance and interactive systems.
+
+- **Realtime Video Detection:**
+  Provides scripts for real-time object detection in video streams. This includes applications in video analytics, autonomous systems, and real-time monitoring where rapid detection and response are critical.
 
 ## Installation
 
